@@ -1,4 +1,5 @@
 # apnacolleage-demo
+
 This is my first Git Repository.
 <br>
-Author - Maulik Ladiwal
+Author - Maulik (JBL, RJL, MJL)
